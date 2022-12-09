@@ -32,6 +32,7 @@
 * I splitted the dataset to 70% Train nad 30% Test
 
 * I tried eight different classifican algorithms and the results was as following:
+
 LogisticRegression score is :  84.7
 -----------
 DecisionTreeClassifier Score is :  80.6%
