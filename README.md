@@ -8,8 +8,8 @@
 
 <br/>
 <div align="center">
-  <a href="https://i.imgur.com/wx7EeZg.png">
-    <img src="https://i.imgur.com/wx7EeZg.png" alt="Logo" width="860" height="444">
+  <a href="https://i.imgur.com/1qNaSpF.png">
+    <img src="https://i.imgur.com/1qNaSpF.png" alt="Logo" width="860" height="444">
   </a>
 
 <br/>
