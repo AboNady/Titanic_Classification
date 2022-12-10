@@ -1,7 +1,7 @@
 <h1 align="center">Titanic - Model for a Disaster!</h1>
 <div>
   <p align="center">
-    k-Means clustering is an unsupervised machine learning algorithm that seeks to segment a dataset into groups based on the similarity of datapoints. An unsupervised model has independent variables and no dependent variables. In this project, I break down the basic idea of it, just simple to understand how it works.
+    The Titanic classification problem is widely known for beginners, so I used my basic knowledge to answer the question "Will you survive?".
     <br/>
   </p>
 </div>
@@ -26,7 +26,7 @@
 
 ## Details
 
-* Feature Engineering was the best thing I learned in this project, I droped the nan columns becuase it was misleading for the classification algorithm. Then, I replaced the possible nan values with the mean of its coulmn. 
+* Feature engineering was the best thing I learned in this project; I dropped the nan columns because they were misleading for the classification algorithm. Then I replaced the nan values with the coulmn's mean.
 
 
 * I splitted the dataset to 70% Train and 30% Test.
