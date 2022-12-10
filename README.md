@@ -78,7 +78,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contacts
 * Via Email : Mahmoud.Nady@Ejust.edu.eg
-* via LinkidIn : https://www.linkedin.com/in/abonady/
+* Via LinkidIn : https://www.linkedin.com/in/abonady/
 
 
 
