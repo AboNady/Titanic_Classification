@@ -29,7 +29,7 @@
 * Feature Engineering was the best thing I learned in this project, I droped the nan columns becuase it was misleading for the classification algorithm. Then, I replaced the possible nan values with the mean of its coulmn. 
 
 
-* I splitted the dataset to 70% Train nad 30% Test
+* I splitted the dataset to 70% Train and 30% Test
 
 * I tried eight different classifican algorithms and the results was as following:
 
@@ -48,11 +48,6 @@ Perceptron Score is :  76.49%
 SGDClassifier Score is :  81.34%
 -----------
 RandomForestClassifier Score is :  78.73%
-
-
-## Figures
-
-![Finafl](https://user-images.githubusercontent.com/111538752/191413606-9b453d60-16b1-4eae-8788-b48fe457e9e4.gif)
 
 
 <br/>
@@ -78,13 +73,12 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## References
 
-*  This is an important [video](https://www.youtube.com/watch?v=M3CqW0Jh5EU&list=PL6-3IRz2XF5VEygzpmG1GZgI8l1xwPDBP&index=9)
+*  This is the Kaggle competition [video](https://www.kaggle.com/competitions/titanic)
 
 
 ## Contacts
 * Via Email : Mahmoud.Nady@Ejust.edu.eg
-* [Via FaceBook]( https://www.facebook.com/MND919/ ).
-
+* via LinkidIn : https://www.linkedin.com/in/abonady/
 
 
 
